@@ -20,3 +20,4 @@ if word in vocabulary:
 
 else:
 	print('Error, This english word ', word, ' is not in my vocabulary!')
+	
